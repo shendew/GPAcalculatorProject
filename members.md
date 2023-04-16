@@ -3,7 +3,7 @@
 
 |  S\N     | Full Name | Registration Number | Contribution |
 | ---      | ---       | ---      | ---       |
-| 1 | Nnamani Henry Chukwuemeka   | 2020/244411 | Programming and Debugging
+| 1 | Nnamani Henry Chukwuemeka   | 2020/244411 | Wrote Course class codes
 | 2 | Ani Peter Benjamin | 2020/241214 | Project Management and Testing
 | 3 | Ezeugwu Romanus Chukwuemeka | 2020/242532 | Github cleanup|
 | 4 | Ihejirika Tochukwu Daniel  | 2020/241834 | Code Review and Debugging|
@@ -15,6 +15,5 @@
 | 10| Ukachi Amarachi Mary-Grace| 2020/242918 | Code Review|
 | 11| Dickson Gift Onu | 2020/243910 | Code Review|
 | 12 | Efughi Precious Chidera | 2020/244378 | Code Review |
-=======
 | 13| Ugwuishiwu Nehemiah Chiemerie | 2020/244323 | Code Review|
 | 14| Eze Precious Tochi | 2020/244319 |
