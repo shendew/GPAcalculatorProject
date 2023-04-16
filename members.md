@@ -1,4 +1,4 @@
-### This file contains the information of group members
+### This file contains the information for Group 8 members
 
 |  S\N     | Full Name | Registration Number | Contribution |
 | ---      | ---       | ---      | ---       |
