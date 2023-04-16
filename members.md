@@ -7,3 +7,4 @@
 | 2 | Ani Peter Benjamin | 2020/241214 | Project Management and Testing
 | 3 | Ezeugwu Romanus Chukwuemeka | 2020/242532 | Github cleanup|
 | 4 | Ihejirika Tochukwu Daniel  | 2020/241834 | Code Review and Debugging|
+| 5 | Ogbu Trisha Chizoba | 2020/241143 | Code Review |
