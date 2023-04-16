@@ -15,3 +15,4 @@
 | 10| Ukachi Amarachi Mary-Grace| 2020/242918 | Code Review|
 | 11| Dickson Gift Onu | 2020/243910 | Code Review|
 | 12| Ugwuishiwu Nehemiah Chiemerie | 2020/244323 | Code Review|
+| 13| Eze Precious Tochi | 2020/244319 |
