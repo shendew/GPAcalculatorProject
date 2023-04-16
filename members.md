@@ -3,7 +3,7 @@
 
 |  S\N     | Full Name | Registration Number | Contribution |
 | ---      | ---       | ---      | ---       |
-| 1 | Nnamani Henry Chukwuemeka   | 2020/244411 | Wrote Course class codes
+| 1 | Nnamani Henry Chukwuemeka   | 2020/244411 | Breakpoint debugging and Programming
 | 2 | Ani Peter Benjamin | 2020/241214 | Project Management and Testing
 | 3 | Ezeugwu Romanus Chukwuemeka | 2020/242532 | Github cleanup|
 | 4 | Ihejirika Tochukwu Daniel  | 2020/241834 | Code Review and Debugging|
