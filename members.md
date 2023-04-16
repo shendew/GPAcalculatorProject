@@ -9,5 +9,5 @@
 | 4 | Ihejirika Tochukwu Daniel  | 2020/241834 | Code Review and Debugging|
 | 5 | Ogbu Trisha Chizoba | 2020/241143 | Code Review |
 | 6 | Urama Goodness Ezechinemereihe | 2020/244419 | Code Review |
-| 7 | Njoku Chukwuemeka | 2020/244400 | Programming and Debuggig|
+| 7 | Njoku Chukwuemeka | 2020/244400 | Programming and Debugging|
 | 8 | Ihejirika Tochukwu Daniel  | 2020/241834 | Code Review and Debugging|
