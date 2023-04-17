@@ -17,4 +17,8 @@
 | 12 | Efughi Precious Chidera | 2020/244378 | Code Review |
 | 13| Ugwuishiwu Nehemiah Chiemerie | 2020/244323 | Code Review|
 | 14| Eze Precious Tochi | 2020/244319 |
-| 16 | Nduka John Sobechukwu | 2020/244336 | Code Review and Testing 
+| 15 | Mbaeze Victor Onyedika | 2020/244320 | Code Review 
+| 16| Ibebeuike Nzube Kennedy | 2020/243025 |
+| 17 | Ezeokeke Chukwuebuka Micheal| 2020/241190 | Programming and GitHub Cleanup 
+| 18 | Aliozor Chidindu Micheal | 2020/244429 | Code Refactor
+| 19 | Nduka John Sobechukwu | 2020/244336 | Code Review and Testing 
