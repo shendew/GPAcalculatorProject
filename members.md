@@ -18,5 +18,6 @@
 | 13| Ugwuishiwu Nehemiah Chiemerie | 2020/244323 | Code Review|
 | 14| Eze Precious Tochi | 2020/244319 |
 | 15 | Mbaeze Victor Onyedika | 2020/244320 | Code Review 
-| 16 | Ezeokeke Chukwuebuka Micheal| 2020/241190 | Programming and GitHub Cleanup 
-| 17 | Aliozor Chidindu Micheal | 2020/244429 | Code Refactor
+| 16| Ibebeuike Nzube Kennedy | 2020/243025 |
+| 17 | Ezeokeke Chukwuebuka Micheal| 2020/241190 | Programming and GitHub Cleanup 
+| 18 | Aliozor Chidindu Micheal | 2020/244429 | Code Refactor
