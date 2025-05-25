@@ -30,20 +30,8 @@ public class Course {
     int getGradePoint() {
         int point = 0;
         
-        if(score < 40) {
-            point = 0;
-        }else if(score  < 45) {
-            point = 1;
-        }else if(score < 50) {
-            point = 2;
-        }else if(score < 60) {
-            point = 3;
-        }else if(score < 70) {
-            point = 4;
-        }else if(score < 100) {
-            point = 5;
-        }
-        
+        point = (score < 40) ? 0 : (score < 45) ? 1 : (score < 50) ? 2 : (score < 60) ? 3 : (score < 70) ? 4 : 5;
+
         return point;
     };
 }

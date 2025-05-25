@@ -3,6 +3,7 @@
  */
 
 package com.mycompany.gradepointaveragecalculator;
+
 import java.util.Scanner;
 
 /**
@@ -18,21 +19,20 @@ public class GradePointAverageCalculator {
 
         int score;
         String courseName;
-        int unitLoad; 
+        int unitLoad;
 
-            //Get semester courses
-                for (int j = 0; j < courses.length; ++j) {
-                    System.out.print("\nEnter course name: ");
-                    courseName = 
-input.next();
-                    System.out.printf("Enter score for %s: ", courseName);
-                    score = input.nextInt();
-                    System.out.printf("Enter Unit Load for %s: ", courseName);
-                    unitLoad = input.nextInt();
+        // Get semester courses
+        for (int j = 0; j < courses.length; ++j) {
+            System.out.print("\nEnter course name: ");
+            courseName = input.next();
+            System.out.printf("Enter score for %s: ", courseName);
+            score = input.nextInt();
+            System.out.printf("Enter Unit Load for %s: ", courseName);
+            unitLoad = input.nextInt();
 
-                    courses[j] = new Course(courseName, score, unitLoad);
-                }
-                
-                System.out.printf("\n\nYour GPA for this semester is : %.2f", semester.getSemesterGPA());
-            }
+            courses[j] = new Course(courseName, score, unitLoad);
+        }
+        input.close();
+        System.out.printf("\n\nYour GPA for this semester is : %.2f", semester.getSemesterGPA());
+    }
 }
